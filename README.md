@@ -1,6 +1,3 @@
-![Uploading Cybersecurity_Study_Assistant_AI_Agent_Professional_Logo.png…]()
-
-
 # 🔐 Cybersecurity Study Assistant Agent
 
 AI agent that helps students learn cybersecurity through:
@@ -181,5 +178,6 @@ This project is created for the Google AI Agents Intensive Course capstone proje
 ---
 
 **Built with ❤️ for cybersecurity education**
+
 
 
