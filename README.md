@@ -1,5 +1,5 @@
 # 🔐 Cybersecurity Study Assistant Agent
-
+SecuriTutor.png
 AI agent that helps students learn cybersecurity through:
 - **Clear explanations** of security concepts
 - **Auto-generated practice quizzes**  
@@ -178,6 +178,7 @@ This project is created for the Google AI Agents Intensive Course capstone proje
 ---
 
 **Built with ❤️ for cybersecurity education**
+
 
 
 
